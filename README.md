@@ -1,4 +1,4 @@
-# # **PERTEMUAN 10 (latihan 1)**
+# **PERTEMUAN 10 (latihan 1)**
 pada latiahan 1 saya diberi soal sebagai berikut:
 ![img](gambar/soalL1.png)
 ## JAWAB
